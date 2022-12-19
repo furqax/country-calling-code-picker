@@ -7,7 +7,7 @@ import 'country.dart';
 import 'functions.dart';
 
 const TextStyle _defaultItemTextStyle = const TextStyle(fontSize: 16);
-const TextStyle _defaultSearchInputStyle = const TextStyle(fontSize: 16);
+const TextStyle _defaultSearchInputStyle = const TextStyle(fontSize: 12);
 const String _kDefaultSearchHintText = 'Search country/Region name, code';
 const String countryCodePackageName = 'country_calling_code_picker';
 
